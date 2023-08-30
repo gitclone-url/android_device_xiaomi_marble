@@ -120,6 +120,10 @@ ro.vendor.gnss.edgnss.downloadQxwzAk                  u:object_r:vendor_edgnss_q
 # Panel
 vendor.panel.                                         u:object_r:vendor_panel_info_prop:s0
 
+# MIUI
+ro.miui.region                      u:object_r:exported_system_prop:s0
+ro.miui.build.region                u:object_r:exported_system_prop:s0
+
 # Mlipay
 persist.vendor.sys.pay.                               u:object_r:vendor_mlipay_prop:s0
 persist.vendor.sys.provision.status                   u:object_r:vendor_mlipay_prop:s0
